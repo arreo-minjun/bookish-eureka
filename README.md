@@ -1,2 +1,2 @@
-# bookish-eureka
+# jpa Practice
 jpa Practice
